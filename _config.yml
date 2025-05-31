@@ -13,7 +13,7 @@ title                    : "Jeff"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : ht.g. "https://jeff.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jianfenglan/jeff.github.io"
 
@@ -22,7 +22,7 @@ repository               : "jianfenglan/jeff.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Jeff.png"
   name             : "Jeff Jianfeng Lan"
   pronouns         : "He/Him/His"  
   location         : #"Earth"
