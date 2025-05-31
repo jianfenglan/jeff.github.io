@@ -13,7 +13,7 @@ title                    : "Jeff's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : ht.g. "https://jeff.github.io"
+url                      : ht.g. "https://jianfenglan.github.io/jeff.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jianfenglan/jeff.github.io"
 
