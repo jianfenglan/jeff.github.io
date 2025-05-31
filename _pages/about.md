@@ -1,5 +1,3 @@
----
-permalink: /
 
 About Jeff
 ======
